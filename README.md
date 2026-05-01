@@ -17,7 +17,7 @@ Aplikasi MyTaskList merupakan platform mobile storefront yang dikembangkan khusu
 ### Screenshot Aplikasi (HP Fisik)
 Berikut adalah tampilan aplikasi saat dijalankan pada perangkat fisik:
 
-![Aplikasi MyTaskList](./assets/Screenshot%202026-05-01%20204438.jpg)
+![Aplikasi MyTaskList](https://github.com/manisha53708/MyTaskList/blob/master/assets/Screenshot%202026-05-01%20204438.png?raw=true)
 
 ### Cara Menjalankan Project
 1. Pastikan **Node.js** dan **Expo CLI** sudah terinstall di komputer Anda.
